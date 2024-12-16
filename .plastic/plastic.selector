@@ -1,0 +1,3 @@
+repository "Game Jam/Game Jam@20067402640066@cloud"
+  path "/"
+    smartbranch "/main/makla"
